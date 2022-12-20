@@ -3235,7 +3235,7 @@ input, select, textarea {
 			width: 100%;
 			height: 100%;
 			background-color: #ffffff;
-			background-image: linear-gradient(0deg, rgba(255, 0, 255), rgba(255, 255, 255));
+			background-image: linear-gradient(0deg, rgba(255, 255, 255), rgba(245, 245, 245));
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
@@ -4395,7 +4395,7 @@ input, select, textarea {
 		line-height: 1.5;
 		text-align: center;
 		text-transform: uppercase;
-		margin: 4rem auto 8rem auto;
+		margin: 3rem auto 3rem auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
@@ -4464,7 +4464,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#copyright {
-				margin: 4rem auto;
+				margin: 1rem auto;
 			}
 
 		}
