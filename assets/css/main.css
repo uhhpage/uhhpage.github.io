@@ -2660,6 +2660,17 @@ input, select, textarea {
 			top: 0.75rem;
 		}
 
+		.image.ico {
+			display: flex;
+			margin: 1rem 0;
+			width: 100%;
+		}
+
+			.image.ico img {
+				max-height: 50px;
+				object-fit: cover;
+			}
+
 		.image.fit {
 			display: block;
 			margin: 2.5rem 0;
